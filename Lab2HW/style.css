@@ -1,0 +1,61 @@
+body {
+    background-color: darkolivegreen;
+    font-family: Arial;
+}
+.general_info{
+    display: block;
+    background-color: #356d8f;
+    height: auto;
+    width: 750px;
+    float: left;
+    padding: 10px;
+}
+.skills{
+    padding-top: 100px;
+    height: auto;
+    width: auto;
+    float: bottom;
+}
+.div1{
+    display: block;
+    height: auto;
+    clear: bottom;
+    padding: 1px;
+}
+.Experience{
+    height: auto;
+    clear: left;
+    padding: 15px;
+}
+hr.new5 {
+    border: 10px solid #1b3179;
+    border-radius: 5px;
+}
+ol.c {list-style-type: upper-roman;}
+
+table, th, td, tr {
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+img{
+    float: left;
+    border: 2px solid #000;
+    border-radius: 20%;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+}
+
+table.center {
+    background-color: #af9dbd;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+table.center2 {
+    float: left;
+    background-color: #af9dbd;
+    margin-left: 20px;
+    margin-right: 20px;
+}
